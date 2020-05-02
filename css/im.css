@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image: url(../3.jpg);
+	background-position: center;
+	height: 100vh;
+	background-size: cover;
+	font-family: Century Gothic;
+	color: #fff;
+}
+ul li h1{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+ul li h2{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
